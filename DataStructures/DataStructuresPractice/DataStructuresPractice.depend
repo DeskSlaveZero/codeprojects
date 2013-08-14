@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1375969322 source:d:\codeprojects\c++\datastructures\datastructurespractice\src\simplehash.cpp
+	"..\include\SimpleHash.h"
+	<iostream>
+	<string.h>
+
+1375937232 d:\codeprojects\c++\datastructures\datastructurespractice\include\simplehash.h
+
+1375937832 source:d:\codeprojects\c++\datastructures\datastructurespractice\main.cpp
+	<iostream>
+	<string.h>
+	"include/SimpleHash.h"
+
+1376093312 source:d:\codeprojects\c++\datastructures\datastructurespractice\src\arraylist.cpp
+	"..\include\ArrayList.h"
+	<vector>
+
+1376096209 d:\codeprojects\c++\datastructures\datastructurespractice\include\arraylist.h
+	<vector>
+	<string>
+
